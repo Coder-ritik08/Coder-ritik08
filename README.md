@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Coder-ritik08
+- 👋 Hi, I’m Ritik Jaiswal
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Express Js
 - 💞️ I’m looking to collaborate on Some project
